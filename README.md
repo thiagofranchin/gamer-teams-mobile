@@ -51,3 +51,23 @@ import { MaterialIcons } from '@expo/vector-icons';
 ```
 npx expo install react-native-svg
 ```
+
+## React Navigation
+
+[React Navigation Website](https://reactnavigation.org/)
+
+```
+npm install @react-navigation/native
+```
+
+```
+npx expo install react-native-screens react-native-safe-area-context
+```
+
+### Stack Navigator.
+
+[Stack Navigator Documentation](https://reactnavigation.org/docs/stack-navigator/)
+
+```
+npm install @react-navigation/native-stack
+```
