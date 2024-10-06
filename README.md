@@ -64,7 +64,7 @@ npm install @react-navigation/native
 npx expo install react-native-screens react-native-safe-area-context
 ```
 
-### Stack Navigator.
+### Stack Navigator
 
 [Stack Navigator Documentation](https://reactnavigation.org/docs/stack-navigator/)
 
